@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abffn2000
-- 👀 I’m interested in DevOps, Python, .NET (C#)
+- 👀 I’m interested in DevOps, Python, .NET (C#), Java
 - 📫 How to reach me: aylenbuffone@dataart.com/ www.linkedin.com/in/aylen-buffone-81020/
 
 <!---
