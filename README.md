@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abffn2000
-- 👀 I’m interested in DevOps, Python, .NET (C#), Java
-- 📫 How to reach me: aylenbuffone@dataart.com/ www.linkedin.com/in/aylen-buffone-81020/
+- 👀 I’m interested in DevOps, Python, .NET (C#), Java, JavaScript, TypeScript, Azure, Angular.
+- 📫 How to reach me: aylenbuffone@dataart.com/ www.linkedin.com/in/aylen-buffone-81020/ https://twitter.com/AylenBuffone
 
 <!---
 abffn2000/abffn2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
